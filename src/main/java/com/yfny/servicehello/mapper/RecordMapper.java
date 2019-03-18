@@ -1,6 +1,6 @@
 package com.yfny.servicehello.mapper;
 
-import com.yfny.servicepojo.entity.RecordEntity;
+import com.yfny.corepojo.entity.RecordEntity;
 import tk.mybatis.mapper.common.BaseMapper;
 
 /**

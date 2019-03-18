@@ -1,7 +1,7 @@
 package com.yfny.servicehello.mapper;
 
-import com.yfny.servicepojo.enums.UserSexEnum;
-import com.yfny.servicepojo.entity.UserEntity;
+import com.yfny.corepojo.enums.UserSexEnum;
+import com.yfny.corepojo.entity.UserEntity;
 import org.apache.ibatis.annotations.*;
 import org.apache.ibatis.mapping.FetchType;
 import tk.mybatis.mapper.common.BaseMapper;

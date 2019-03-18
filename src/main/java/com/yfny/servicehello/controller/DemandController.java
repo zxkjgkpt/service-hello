@@ -2,8 +2,8 @@ package com.yfny.servicehello.controller;
 
 import com.yfny.servicehello.service.DemandServiceImpl;
 import com.yfny.servicehello.service.RecordServiceImpl;
-import com.yfny.servicepojo.entity.DemandEntity;
-import com.yfny.servicepojo.entity.RecordEntity;
+import com.yfny.corepojo.entity.DemandEntity;
+import com.yfny.corepojo.entity.RecordEntity;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

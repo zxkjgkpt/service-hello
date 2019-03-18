@@ -1,6 +1,6 @@
 package com.yfny.servicehello.controller;
 
-import com.yfny.servicepojo.entity.UserEntity;
+import com.yfny.corepojo.entity.UserEntity;
 import com.yfny.servicehello.service.UserServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

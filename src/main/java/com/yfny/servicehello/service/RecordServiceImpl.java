@@ -1,7 +1,7 @@
 package com.yfny.servicehello.service;
 
 import com.yfny.servicehello.mapper.RecordMapper;
-import com.yfny.servicepojo.entity.RecordEntity;
+import com.yfny.corepojo.entity.RecordEntity;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

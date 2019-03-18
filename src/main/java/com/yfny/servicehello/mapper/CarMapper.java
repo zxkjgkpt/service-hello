@@ -1,6 +1,6 @@
 package com.yfny.servicehello.mapper;
 
-import com.yfny.servicepojo.entity.CarEntity;
+import com.yfny.corepojo.entity.CarEntity;
 import org.apache.ibatis.annotations.Result;
 import org.apache.ibatis.annotations.Results;
 import org.apache.ibatis.annotations.Select;

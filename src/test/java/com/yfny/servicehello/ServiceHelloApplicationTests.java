@@ -1,9 +1,9 @@
 package com.yfny.servicehello;
 
-import com.yfny.servicecommon.generator.entity.RequestInfo;
-import com.yfny.servicecommon.generator.invoker.TestInvoker;
-import com.yfny.servicecommon.generator.invoker.base.Invoker;
-import com.yfny.servicecommon.util.CodeInfoUtils;
+import com.yfny.utilscommon.generator.entity.RequestInfo;
+import com.yfny.utilscommon.generator.invoker.TestInvoker;
+import com.yfny.utilscommon.generator.invoker.base.Invoker;
+import com.yfny.utilscommon.util.CodeInfoUtils;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -11,7 +11,6 @@ import org.springframework.core.MethodParameter;
 import org.springframework.test.context.ActiveProfiles;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import java.lang.reflect.Modifier;
 import java.util.List;
 
 @RunWith(SpringRunner.class)

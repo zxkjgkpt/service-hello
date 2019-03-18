@@ -1,9 +1,9 @@
 package com.yfny.servicehello.service;
 
-import com.yfny.servicecommon.redis.CacheEvict;
-import com.yfny.servicecommon.redis.CacheKey;
-import com.yfny.servicecommon.redis.Cacheable;
-import com.yfny.servicecommon.redis.CommonCacheTime;
+import com.yfny.utilscommon.redis.CacheEvict;
+import com.yfny.utilscommon.redis.CacheKey;
+import com.yfny.utilscommon.redis.Cacheable;
+import com.yfny.utilscommon.redis.CommonCacheTime;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 

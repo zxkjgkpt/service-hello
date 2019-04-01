@@ -7,9 +7,9 @@ packageName: com.yfny.servicehello
 path:
   controller: controller
   service: service.impl
-  interf: service
-  dao: dao
   entity: entity
   mapper: mappers
+  sqlbuilder: sqlbuilder
+  hystrix:
   basetest: base
   unittest: unit
